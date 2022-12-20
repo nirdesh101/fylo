@@ -1,0 +1,264 @@
+.mb-0{
+    margin-bottom: 0;
+}
+.container{
+    max-width: 1024px;
+    margin: 0 auto;
+}
+.img{
+    height: 32px;
+    width: 103px;
+    
+    
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-item{
+    display: inline-block;
+    padding: 10px 15px;
+}
+
+.all{
+    font-weight: bold;
+    font-size: 30px;
+    
+}
+.illus{
+width: 90%;
+height: 22rem;
+
+}
+.firstsection{
+    display: flex;
+    justify-content: space-between;
+}
+.des{
+   
+    padding-top:0px ;
+    
+    }
+.menu{
+    padding: 20px;
+    
+    font-family: arial;
+}
+.email{
+height: 25px;
+width: 15rem;
+
+}
+button{
+    background-color: dodgerblue;
+    border-radius: 3px;
+    width: 10rem;
+    height: 37px;
+    border-color: dodgerblue;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    
+}
+h1,p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.every{
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 60px;
+}
+.secondsection{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 3em;
+    border-radius: 20px;
+}
+.illus2{
+    width: 90%;
+    height: 22rem;
+    margin-right: 50px;
+    padding-top: 90px;
+}
+h3{
+    margin-left: 50px;
+    padding-left: 25px;   
+}
+.arrow{
+    height: 25px;
+    width: 25px;
+    margin: -5px;
+}
+.notag{
+    text-decoration: none;
+    color: black;
+}
+.saying{
+    margin-top: 50px;
+    font-size: medium;
+    height: 220px;
+    width: 350px;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    margin-bottom: 100px;
+}
+.comma{
+    height: 20px;
+    padding:10px;
+    padding-top: 10px;
+}
+.paragraph{
+    border-top: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.man{
+    height: 45px;
+    width: 45px;
+    margin-left: 20px;
+    border-radius: 100px;
+}
+
+    
+
+.Individual{
+    display: flex;
+    flex-direction: column;
+    padding: 4px;
+    margin-bottom: 50px;
+}
+.user{
+    display: flex;
+}
+.person{
+    font-weight: bold;
+}
+
+.access{
+    background-color:#585989;
+    color: white;
+    height: 300px;
+    align-items: center;
+    display: flex;
+}
+.haha{
+    display: flex;
+}
+.signing-up{
+    margin-top: 10px;
+}
+.mail{
+    height: 30px;
+    width: 400px;
+    margin-right: 20px;
+}
+.hehe{
+    flex-direction: column;
+    display: flex;
+    justify-content: flex-start;
+}
+.button2{
+    margin-top: 10px;
+}
+.box{ 
+     margin: 30px;
+}
+.footer-wrap{
+    background-color:#07053C;
+    display: flex; 
+    flex-direction: row;
+    height: 350px;
+    
+    
+}
+.logo2{
+    height: 45px;
+    width: 150px;
+    margin-top: 60px;
+    margin-bottom: 15px;
+    margin-left: 40px;
+}
+.phone{
+    /* display: flex; */
+    flex-direction: column;
+}
+.gmail{
+    height: 15px;
+    width: 15px;
+    
+    margin-top: 20px;
+}
+.call{
+    height: 15px;
+    width: 15px;
+    
+    margin-top: 20px;
+}
+.number{
+font-size: 15px;
+color: white;
+font-family: sans-serif;
+font-style: none;
+margin-left: 12px;
+
+}
+.example{
+font-size:15px;
+color: white;
+font-family: sans-serif;
+font-style: none;
+margin-left: 12px;
+}
+.HH{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.num{
+    display: flex; 
+    align-items: center;
+    flex-direction: column;
+}
+.about{
+display: flex;
+flex-direction: column;
+color: white;
+margin: 50px;
+list-style: none;
+margin-top: 131px;
+}
+.terms{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    margin: 50px;
+    list-style: none;
+    margin-top: 131px;
+    margin-left: 20px;
+}
+.ytag{
+    color: white;
+    text-decoration: none;
+    margin-right: 40px;
+    padding: 10px;
+}
+
+.kk{
+    margin-left: 81px;
+}
+.ll{
+    margin-left: 81px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.icon{
+    height: 25px;
+    width: 25px;
+    color: white;
+    display: flex;
+    margin-top: 139px;
+}
